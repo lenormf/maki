@@ -613,6 +613,7 @@ pub enum BuiltinAction {
     FilePicker,
     Search,
     Help,
+    Quit,
     PlanToggle,
     PlanEditor,
     EditInput,
